@@ -249,3 +249,19 @@ tr:nth-of-type(even) {
     height: 100%;
     width: 100%;
 }
+
+/* contact */
+
+form {
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: #df6f08;
+    width: 25%;
+    justify-items: center;
+    font-size: 2em;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
